@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Thiago Status](https://github-readme-stats.vercel.app/api?username=thbertolino&show_icons=true)
+<br>
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&show_icons=true)
 
