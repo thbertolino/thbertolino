@@ -3,7 +3,8 @@
 - 🔭  Estou trabalhando atualmente com Desenvolvimento Web.
 - 📫  Contato: thbertolino.github.io
 
-## GitHub Stats
+
+## My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
 
  <div>
   <a href="https://thbertolino.github.io">
@@ -11,12 +12,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+ ## Stats like a terminal...
+ 
+![Metrics](https://metrics.lecoq.io/thbertolino?template=terminal&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
+ 
   
  ## Stuff I worked on last week
  
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@thbertolino&compact=True"/>
+
 
  ## Linguagens
  
