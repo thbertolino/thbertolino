@@ -1,7 +1,6 @@
 ### Olá! 👋
 
-- 🔭  Estou trabalhando atualmente com PHP e Desenvolvimento Web.
-- 🌱  Estou aprendendo atualmente JavaScript
+- 🔭  Estou trabalhando atualmente com Desenvolvimento Web.
 - 📫  Contato: thbertolino.github.io
 
 ## GitHub Stats
