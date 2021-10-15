@@ -12,17 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ## Stats like a terminal...
- 
-![Metrics](https://metrics.lecoq.io/thbertolino?template=terminal&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
- 
   
  ## Stuff I worked on last week
  
  <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
 
