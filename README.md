@@ -16,7 +16,10 @@
  ## Stuff I worked on last week
  
  <!--START_SECTION:waka-->
-
+```text
+PHP          1 hr 40 mins    ███████████████████▓░░░░░   78.44 % 
+JavaScript   27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
+```
 <!--END_SECTION:waka-->
 
 
