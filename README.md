@@ -9,11 +9,11 @@
  <div>
   <a href="https://thbertolino.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thbertolino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&layout=compact&langs_count=7&theme=dark"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
  
   
- ## Stuff I worked on last week
+ ## Programming Languages I used recently
  
  <!--START_SECTION:waka-->
 ```text
