@@ -12,19 +12,7 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
  
-  
- ## Programming Languages I used recently
  
- <!--START_SECTION:waka-->
-```text
-PHP          19 hrs 36 mins  ██████████████████████▓░░   90.39 % 
-JavaScript   2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-<!--END_SECTION:waka-->
-
-
  ## Linguagens
  
  <div style="display: inline_block"><br>
