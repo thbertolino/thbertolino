@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thbertolino&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
-# Linguagens, Frameworks e Tecnologias
+# Linguagens de Programação
 
   <p align="left">
    
@@ -36,15 +36,11 @@
    
    <a href="#" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-  
-  <a href="#" alt="MySQL">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  
-  <a href="#" alt="MariaDB">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a
 
 </p>
 
+# Frameworks e Tecnologias
+   
 <p align="left">
   
    <a href="#" alt="Bootstrap">
@@ -59,8 +55,14 @@
    <a href="#" alt="Laravel">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
  
-  <a href="#" alt="NodeJs">
+ <a href="#" alt="NodeJs">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+ 
+ <a href="#" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  
+  <a href="#" alt="MariaDB">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a
   
   <a href="#" alt="NPM">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
