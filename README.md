@@ -1,4 +1,4 @@
-# Olá, me chamo Thiago Bertolino! 👋
+# Olá! 👋
 
 💻 Estou trabalhando atualmente com Desenvolvimento Web, focado em PHP e JavaScript.
 
