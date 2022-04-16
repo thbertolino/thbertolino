@@ -69,9 +69,6 @@
  
    <a href="#" alt="Postman">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
-  
-  <a href="#" alt="Xampp">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /></a>  
  
    <a href="#" alt="Wordpress">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>  
