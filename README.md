@@ -1,18 +1,18 @@
 # Hello! 👋
 
-💻 Estou trabalhando atualmente com Desenvolvimento Web, focado em PHP e JavaScript.
+💻 Currently working with Web Development, focusing on PHP and JavaScript languages.
 
 
-# Meus Status do GitHub
+# GitHub Stats
 
  <div align="center">
   <a href="https://thbertolino.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thbertolino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbertolino&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thbertolino&layout=compact&langs_count=7&theme=dark"/>
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thbertolino&layout=compact&langs_count=7&theme=dark"/> -->
 </div> 
  
-# Linguagens de Programação
+# Programming Languages
 
   <p align="left">
    
@@ -33,13 +33,10 @@
   
   <a href="#" alt="CSS3">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-   
-   <a href="#" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 
 </p>
 
-# Frameworks e Tecnologias
+# Frameworks/Technologies
    
 <p align="left">
   
@@ -52,17 +49,11 @@
   <a href="#" alt="Codeigniter">
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /></a>
  
- <a href="#" alt="NodeJs">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
- 
  <a href="#" alt="MySQL">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   
   <a href="#" alt="Git">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
- 
-   <a href="#" alt="Unity">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
  
    <a href="#" alt="Postman">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
@@ -72,16 +63,12 @@
   
 </p>
  
- # Contato e Redes Sociais
+ # Contact/Social Medias
  
   <p align="left">
   
- <a href = "mailto:thbertolinodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.thbertolino.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/thbertolino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.discord.com/channels/thiagobertolino" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/thbertolino" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/thbertolino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://facebook.com/thbertolino" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/thiagopotterbr?si=1fac93bc9d0d4b83" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <p>
+ <a href="mailto:thiagopbertolino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.thbertolino.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/thbertolino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ <p>
