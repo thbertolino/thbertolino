@@ -5,7 +5,6 @@
 ### Contact/Social Medias 🌎
 
 [Site](https://thbertolino.github.io) <br>
-[Blog](https://thbertolino.github.io/blog) <br>
 [Twitter](https://twitter.com/thbertolino) <br>
 [Instagram](https://instagram.com/thbertolino) <br>
 [LinkedIn](https://www.linkedin.com/in/thbertolino/) <br>
