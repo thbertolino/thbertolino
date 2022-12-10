@@ -2,7 +2,7 @@
 
 💻 Currently working with Web Development, focusing on PHP and JavaScript languages. <br>
 
-### Contact/Social Medias 🌎
+### Where can you find me 🌎
 
 [Site](https://thbertolino.github.io) <br>
 [Twitter](https://twitter.com/thbertolino) <br>
