@@ -6,4 +6,4 @@
 
 [Site](https://thbertolino.github.io) <br>
 [LinkedIn](https://www.linkedin.com/in/thbertolino/) <br>
-[Mail](mailto:thiagopbertolino@gmail.com) <br>
+[Mail](mailto:thbertolinodev@gmail.com) <br>
